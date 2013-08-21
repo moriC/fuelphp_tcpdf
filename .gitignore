@@ -16,3 +16,5 @@ build
 /fuel/app/config/crypt.php
 nbproject/
 
+fuel/app/logs/*/*/*
+fuel/app/cache/*/*
